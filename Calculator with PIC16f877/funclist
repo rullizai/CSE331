@@ -1,0 +1,17 @@
+___awdiv: CODE, 1732 0 69
+___ftpack: CODE, 1973 0 62
+___awmod: CODE, 1801 0 61
+_main: CODE, 644 0 397
+_lcdcmd: CODE, 609 0 35
+_lcdinit: CODE, 527 0 82
+_lcddata: CODE, 1563 0 33
+_disp_num: CODE, 1068 0 135
+_get_num: CODE, 351 0 70
+_scan_key: CODE, 1203 0 360
+___ftmul: CODE, 1862 0 111
+___awtoft: CODE, 1041 0 27
+___wmul: CODE, 1707 0 25
+___fttol: CODE, 1596 0 97
+___bmul: CODE, 1693 0 14
+___ftdiv: CODE, 421 0 106
+Total: 1684
